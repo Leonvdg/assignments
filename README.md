@@ -7,3 +7,7 @@
 [week 6 assignment](https://github.com/Leonvdg/assignments/blob/master/assignment4%20week%206.ipynb)
 
 [week 8 assignment](https://github.com/Leonvdg/assignments/blob/master/assignment%205%20programming%20week%208%20Readme.ipynb)
+
+[final python assignment (resit)](https://github.com/Leonvdg/assignments/blob/master/Final_Assignment_Python%20af.ipynb)
+
+[final R assignment (resit)]()
