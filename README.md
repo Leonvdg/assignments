@@ -10,4 +10,4 @@
 
 [final python assignment (resit)](https://github.com/Leonvdg/assignments/blob/master/Final_Assignment_Python%20af.ipynb)
 
-[final R assignment (resit)](https://github.com/Leonvdg/assignments/blob/master/resit%20exam%20exercise%20bijna%20af.ipynb)
+[final R assignment (resit)](https://github.com/Leonvdg/assignments/blob/master/resit%20exam%20exercise%20bijna%20af%20(1).ipynb)
